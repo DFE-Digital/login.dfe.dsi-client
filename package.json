@@ -1,0 +1,23 @@
+{
+  "name": "login.dfe.dsi-client",
+  "version": "1.0.0",
+  "description": "Sample Clients for DSI OIDC Provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DFE-Digital/login.dfe.dsi-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DFE-Digital/login.dfe.dsi-client/issues"
+  },
+  "homepage": "https://github.com/DFE-Digital/login.dfe.dsi-client#readme",
+  "dependencies": {
+    "openid-client": "^5.1.2"
+  }
+}
